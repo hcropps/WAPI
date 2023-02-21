@@ -101,9 +101,9 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.github.ben221199</groupId>
-			<artifactId>libsignal-protocol-java</artifactId>
-			<version>a58f85e3dd</version>
+			<groupId>org.whispersystems</groupId>
+			<artifactId>signal-protocol-android</artifactId>
+			<version>2.2.0</version>
 		</dependency>
 	</dependencies>
 
