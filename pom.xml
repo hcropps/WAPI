@@ -4,9 +4,9 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>nl.ben221199</groupId>
+	<groupId>hcropps</groupId>
 	<artifactId>wapi</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>master</version>
 	
 	<build>
 		<plugins>
