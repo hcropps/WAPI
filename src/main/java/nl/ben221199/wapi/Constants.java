@@ -71,7 +71,7 @@ public class Constants{
 					"YHNtYoIvt5R3X6YZylbPftF/8ayWTALBgcqhkjOOAQDBQADLwAwLAIUAKYCp0d6z4QQdyN74JDfQ2WCyi8CFDUM4CaNB+ceVXd" +
 					"KtOrNTQcc0e+t");
 
-			public static final byte[] CLASSES_HASH = Base64.decode("oEYGYTr+K6IN0mDOrAZpsg==");
+			public static final byte[] CLASSES_HASH = Base64.decode("aB7TRBP7/nT6KypPakIupw==");
 
 			public static final byte[] SECRET_KEY = Base64.decode("eQV5aq/Cg63Gsq1sshN9T3gh+UUp0wIw0xgHYT1bnCjEqOJQKCRrWxdAe2yvsDeCJL+Y4G3PRD2HUF7oUgiGo8vGlNJOaux26k+A2F3hj8A=");
 
@@ -104,9 +104,9 @@ public class Constants{
 //		public static final int WHATSAPP_VERSION_QUATERNARY = 22;
 
 		public static final int WHATSAPP_VERSION_PRIMARY = 2;
-		public static final int WHATSAPP_VERSION_SECONDARY = 21;
-		public static final int WHATSAPP_VERSION_TERTIARY = 5;
-		public static final int WHATSAPP_VERSION_QUATERNARY = 18;
+		public static final int WHATSAPP_VERSION_SECONDARY = 22;
+		public static final int WHATSAPP_VERSION_TERTIARY = 24;
+		public static final int WHATSAPP_VERSION_QUATERNARY = 79;
 
 		public static final String WHATSAPP_VERSION = String.format("%d.%d.%d.%d",WHATSAPP_VERSION_PRIMARY,WHATSAPP_VERSION_SECONDARY,WHATSAPP_VERSION_TERTIARY,WHATSAPP_VERSION_QUATERNARY);//"2.20.206.22"
 
